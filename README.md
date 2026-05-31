@@ -108,6 +108,11 @@ python Text\_Summary.py
 
 ```
 
+## Live Demo
+
+🚀 Try it here:
+https://huggingface.co/spaces/rohxhan/Text_Summarizer
+
 
 
 \## Future Improvements
@@ -135,6 +140,7 @@ python Text\_Summary.py
 \* GitHub: https://github.com/voldemort85
 
 \* LinkedIn: https://www.linkedin.com/in/rohan-sahu06
+
 
 
 
